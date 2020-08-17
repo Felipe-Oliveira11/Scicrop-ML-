@@ -1,6 +1,9 @@
 # Scicrop-ML
 <hr>
 
+Machine Learning Plataform: https://safra-plataform.herokuapp.com/
+
+
 <br>
 
 ## Required Files 
