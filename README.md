@@ -1,7 +1,7 @@
 # Scicrop-ML
 <hr>
 
-Machine Learning Plataform: https://safra-plataform.herokuapp.com/
+Machine Learning Plataform: loading...
 
 
 <br>
