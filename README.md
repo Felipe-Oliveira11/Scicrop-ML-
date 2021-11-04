@@ -18,3 +18,4 @@ Machine Learning Plataform: https://safra-plataforma.herokuapp.com/
 <br>
 <br>
 <br>
+<hr>
